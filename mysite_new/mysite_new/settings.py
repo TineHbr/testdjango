@@ -102,7 +102,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # Internationalization
 # https://docs.djangoproject.com/en/6.0/topics/i18n/
-
+# hieronder bepaalt u de taal van uw applicatie
 LANGUAGE_CODE = 'nl-be'
 
 TIME_ZONE = 'CET'
